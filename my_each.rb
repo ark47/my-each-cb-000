@@ -6,6 +6,7 @@ def my_each(array)
     x += 1
   end
 
+  array
 end
 
 # def hello_t(array)
